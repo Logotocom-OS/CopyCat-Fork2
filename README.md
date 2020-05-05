@@ -1,6 +1,6 @@
 # Copy Cat
 
-[Copy Cat][copycat] is a ComputerCraft emulator for the web, heavily inspired by
+[Copy Cat][https://github.com/Logotocom-OS/copycat-fork.github.io/master/index.md] is a ComputerCraft emulator for the web, heavily inspired by
 the a similar project [Mimic][mimic]. However, unlike Mimic, it's built from the
 mod's source code - ensuring that it's always <sup>1</sup> as accurate as
 possible.
