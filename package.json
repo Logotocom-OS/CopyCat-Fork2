@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "cc-web-term": "github:SquidDev-CC/cc-web-term",
-    "jszip": "^3.3.0",
+    "jszip": "^3.7.0",
     "monaco-editor": "^0.20.0",
     "preact": "^10.4.0",
     "requirejs": "^2.3.6",
